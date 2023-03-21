@@ -7,8 +7,8 @@ This repository is for SQL exercises done while learning SQL.
 - [Learning SQL from sql-ex](https://github.com/sergiorkd/Learning-SQL/blob/main/sql-ex/Learning%20SQL.ipynb)
 
 ## List of courses:
-- [SQL com PostgreSQL]() (Mar, 2023) (Alura)
-- Practical skills of SQL language [sql-ex](https://www.sql-ex.ru/)
+- SQL com PostgreSQL on [Alura](https://www.alura.com.br/)
+- Practical skills of SQL language on [sql-ex](https://www.sql-ex.ru/)
 
 
 ## Contacts
