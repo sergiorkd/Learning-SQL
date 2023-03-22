@@ -5,6 +5,7 @@ This repository is for SQL exercises done while learning SQL.
 
 ## List of Activities:
 - [Learning SQL from sql-ex](https://github.com/sergiorkd/Learning-SQL/blob/main/sql-ex/Learning%20SQL.ipynb)
+- [Academic database from Alura](https://github.com/sergiorkd/Learning-SQL/blob/main/Alura/PostgreSQL/Query%20academico.ipynb)
 
 ## List of courses:
 - SQL com PostgreSQL on [Alura](https://www.alura.com.br/)
