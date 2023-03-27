@@ -10,6 +10,7 @@ This repository is for SQL exercises done while learning SQL.
 ## List of courses:
 - SQL com PostgreSQL on [Alura](https://www.alura.com.br/)
 - Practical skills of SQL language on [sql-ex](https://www.sql-ex.ru/)
+- Learn SQL with simple, interactive exercises on [SQLBolt](https://sqlbolt.com/)
 
 
 ## Contacts
